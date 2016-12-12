@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Adaptars</string>
+    <string name="large_text">
+        "AcknoTech is a dynamic and customer business focused consulting firm backed by highly qualified and experienced professionals who has good industry knowledge and are committed to deliver global business solutions to a wide range of enterprises.\n\n"
+
+"We take an agile and collaborative approach to create customized solutions for customers in different domains and domains. We deliver cost effective and innovative solutions for needs like CRM, ERP, BPM, Analytics using custom solutions or industry standard packages like Salesforce, Sugar CRM, VTiger and SAP.\n\n"
+
+"We have expertise in infrastructure and application management to optimize and maintain your IT into a strategic asset. Our services include application development, application support, database management and infrastructure management.\n\n"
+
+"Also, we have expertise in DevOps where in there is collaboration between application development and support teams in the project from ideation to execution and delivery phase which will become strong backbone for application maintenance and enhancements as the business and IT landscape changes over a period.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="bname">Our Technologies</string>
+
+</resources>
